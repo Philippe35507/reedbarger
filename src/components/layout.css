@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(37, 37, 37);
+}
+
+div {
+    color: white;
+    margin: 0 auto;
+    
+    padding: 1.5 rem;
+    max-width: 850px;
+}
+
+a {
+    color: white;
+    margin-right: 3rem;
+}
